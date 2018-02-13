@@ -1,0 +1,118 @@
+everything that he said was wrong
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -15.71002 ppl= 175.5045 ppl1= 415.2755
+
+everything which he said was wrong
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -16.32995 ppl= 215.2035 ppl1= 526.8144
+
+everything what he said was wrong
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -16.61915 ppl= 236.6811 ppl1= 588.6506
+
+that she said made me angry
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -18.73663 ppl= 474.9648 ppl1= 1326.697
+
+which she said made me angry
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -20.18913 ppl= 765.881 ppl1= 2316.62
+
+what she said made me angry
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -18.65752 ppl= 462.7648 ppl1= 1287.025
+
+everybody has arrived
+1 sentences, 3 words, 0 OOVs
+0 zeroprobs, logprob= -12.09214 ppl= 1054.471 ppl1= 10732.8
+
+everybody is arrived
+1 sentences, 3 words, 0 OOVs
+0 zeroprobs, logprob= -11.56143 ppl= 776.8872 ppl1= 7141.848
+
+everybody have arrived
+1 sentences, 3 words, 0 OOVs
+0 zeroprobs, logprob= -13.10592 ppl= 1890.08 ppl1= 23369.01
+
+if you would happen to finish early give me a ring
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -30.36615 ppl= 339.2444 ppl1= 576.1814
+
+if you should happen to finish early give me a ring
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -30.13584 ppl= 324.5788 ppl1= 549.0628
+
+if she should be late we will have to leave without her
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -29.32166 ppl= 180.0995 ppl1= 277.6335
+
+if she should be late we would have to leave without her
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -29.15801 ppl= 174.9541 ppl1= 269.0508
+
+the thing that happened next horrified me
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -19.08931 ppl= 243.3121 ppl1= 533.3893
+
+the thing what happened next horrified me
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -19.35609 ppl= 262.7307 ppl1= 582.3114
+
+the thing which happened next horrified me
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -21.65007 ppl= 508.4621 ppl1= 1238.417
+
+my jeans is too tight for me
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -21.97511 ppl= 558.3267 ppl1= 1378.164
+
+my jeans are too tight for me
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -22.12012 ppl= 582.1239 ppl1= 1445.498
+
+a lot of social problems is caused by poverty
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.11668 ppl= 162.8051 ppl1= 286.6876
+
+a lot of social problems are caused by poverty
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.84778 ppl= 192.654 ppl1= 345.6546
+
+a lot of time is required to learn a language
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -21.37296 ppl= 87.69937 ppl1= 137.1817
+
+a lot of time are required to learn a language
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -22.36343 ppl= 107.9043 ppl1= 172.3228
+
+we have got only two liters of milk left that is not enough
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -32.0218 ppl= 193.7633 ppl1= 290.5464
+
+we have got only two liters of milk left those are not enough
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -33.67352 ppl= 254.2444 ppl1= 389.2877
+
+you are too small to be a soldier
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -15.42212 ppl= 51.70927 ppl1= 84.67681
+
+you are too little to be a soldier
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -14.93946 ppl= 45.70247 ppl1= 73.69401
+
+it was so hot that we stopped playing
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -25.14576 ppl= 622.2624 ppl1= 1390.658
+
+it was very hot that we stopped playing
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -23.64927 ppl= 424.3232 ppl1= 903.9801
+
+it was too hot that we stopped playing
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -24.49716 ppl= 527.117 ppl1= 1153.839
+
+file gap_filling_exercise/gap_filling_exercise: 29 sentences, 230 words, 0 OOVs
+0 zeroprobs, logprob= -624.2242 ppl= 257.1177 ppl1= 517.6285
