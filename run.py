@@ -9,11 +9,14 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 import tensorflow as tf
 
+# Set TRAIN to true will build a new model
 TRAIN = False
-# if VERBOSE is true, then print the ppl of every sequence when we
+
+# If VERBOSE is true, then print the ppl of every sequence when we
 # are testing.
 VERBOSE = True
 
+# To indicate your test corpus
 test_file = "./gap_filling_exercise/gap_filling_exercise"
 
 if not os.path.isfile("data/vocab"):
